@@ -2,6 +2,7 @@
 machine learning model for stroke prediction 
 
 **Here is a short FAQ about this repository**
+
 **1) What is this repository about?**
 
 This repository is contains a Machine Learning model for stroke prediction.
@@ -24,6 +25,7 @@ This is a classification type of ML model. Initially an EDA has been done to und
 Next, as the dataset has some outliers for age attribute, these have been removed and the model has been trained & cross-validated with Random Forest Classifier to check if the model reliability can be improved.
 
 **5) Which tool and which libraries have been used in this project?**
+
 This project has been entirely completed in Jupyter IDE with Python 3.8.5 and the model has been trained using scikit-learn framework.
 
 Libraries used: Pandas, NumPy, Matplotlib and Seaborn
