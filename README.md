@@ -5,7 +5,7 @@ machine learning model for stroke prediction
 
 **1) What is this repository about?**
 
-This repository is contains a Machine Learning model for stroke prediction.
+This repository contains a Machine Learning model for stroke prediction.
 
 It includes the jupyter notebook (.ipynb), .csv file and a readme.
 
